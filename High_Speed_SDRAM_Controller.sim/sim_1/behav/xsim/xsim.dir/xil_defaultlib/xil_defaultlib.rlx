@@ -1,0 +1,14 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/High_Speed_SDRAM_Controller.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_address_mapping.v,1788761003,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_burst_controller.v,,sdram_address_mapping,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_burst_controller.v,1788761380,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_controller_fsm.v,,sdram_burst_controller,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_controller_fsm.v,1788760933,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_controller_top.v,,sdram_controller_fsm,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_controller_top.v,1788763160,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_initialization.v,,sdram_controller_top,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_initialization.v,1788761091,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_parameters.v,,sdram_initialization,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_parameters.v,1788760858,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_read_controller.v,,sdram_parameters,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_read_controller.v,1788761159,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_refresh_controller.v,,sdram_read_controller,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_refresh_controller.v,1788761294,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_write_controller.v,,sdram_refresh_controller,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/rtl/sdram_write_controller.v,1788761232,systemVerilog,,,,sdram_write_controller,,,,,,,,

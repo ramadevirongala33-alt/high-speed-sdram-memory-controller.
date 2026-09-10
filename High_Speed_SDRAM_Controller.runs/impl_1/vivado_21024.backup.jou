@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Sep  7 15:40:37 2026
+# Process ID: 21024
+# Current directory: C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/High_Speed_SDRAM_Controller.runs/impl_1
+# Command line: vivado.exe -log sdram_controller_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source sdram_controller_top.tcl -notrace
+# Log file: C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/High_Speed_SDRAM_Controller.runs/impl_1/sdram_controller_top.vdi
+# Journal file: C:/Users/R ramadevi/OneDrive/Desktop/High_Speed_SDRAM_Controller/High_Speed_SDRAM_Controller.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source sdram_controller_top.tcl -notrace
